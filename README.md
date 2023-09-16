@@ -7,8 +7,8 @@
   ##
 
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kevinsousa&show_icons=true" />
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=kevinsousa&show_icons=true" />
 </div>
 
 <div style="display: inline_block"><br>
